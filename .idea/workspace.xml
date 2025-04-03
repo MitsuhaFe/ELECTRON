@@ -10,6 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -101,7 +106,7 @@
       <workItem from="1743638548104" duration="3166000" />
       <workItem from="1743642082888" duration="3120000" />
       <workItem from="1743653704270" duration="129000" />
-      <workItem from="1743653836569" duration="1001000" />
+      <workItem from="1743653836569" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="electron演示示例">
       <option name="closed" value="true" />
@@ -127,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743654781244</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="electron演示示例">
+      <option name="closed" value="true" />
+      <created>1743654925487</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743654925487</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
