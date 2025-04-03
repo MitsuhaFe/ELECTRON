@@ -4,8 +4,8 @@
 1.nodejs环境安装/官网直接下载exe
   winget install Schniz.fnm
   fnm install 22
-  node -v # Should print "v22.14.0".
-  npm -v # Should print "10.9.2".
+  node -v 
+  npm -v
   （cmd终端运行命令）
 
 2.安装依赖
